@@ -4,6 +4,6 @@
 - 🎓 Estudio en  **[Hack A Boss Full-Stack Bootcamp](https://www.hackaboss.com)**
 - 🎥 Estudie periodismo y comunicación audiovisual 
 - 📫 Me puedes contactar en **fernandezfeijoosofia@gmail.com**
-- 💻 Me puedes encontrar en: [LinkedIn](www.linkedin.com/in/sofiafernandezfeijoo/)
+- 💻 Me puedes encontrar en: [LinkedIn](https://www.linkedin.com/in/sofia-fern%C3%A1ndez-a11a17158/)
  
 [![Sofía's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaffernandez&theme=dark)](https://github.com/sofiaffernandez)
