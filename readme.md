@@ -2,7 +2,7 @@
 <h3 align="center"> junior full-stack developer💻</h3>
 
 - 💻 Trabajo como Técnica de aplicaciones Plexus Tech
-- 🎓 Estudio un Máster Universitario en Diseño y Desarrollo de Interfaz de Usuario Web
+- 🎓 Estudio DAW
 - 📫 Me puedes contactar en **fernandezfeijoosofia@gmail.com**
 - 💻 Me puedes encontrar en: [LinkedIn](https://www.linkedin.com/in/sofia-fern%C3%A1ndez-a11a17158/)
  
